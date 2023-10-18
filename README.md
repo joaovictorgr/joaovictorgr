@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Victor Grigorio 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovictor_grigorio)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/grigoriojv@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoriojv@gmail.com)
 ## Tecnologias do meu dia a dia:
 
 <div style="display: inline_block"><br/>
